@@ -1,0 +1,8 @@
+This code include software dervied from the following sources:
+
+* `go-external-ip` by GlenDC, licensed under the MIT license,
+see `https://github.com/GlenDC/go-external-ip` derived at `geo-ip` package.
+* `gocloud.dev` by Google, licensed under the Apache 2.0 license,
+see `https://gocloud.dev/` deriver at packages:
+  * `urlopener` from `gocloud.dev/internal/openurl`
+  * `retry` from `gocloud.dev/internal/retry`
