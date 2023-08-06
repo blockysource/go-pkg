@@ -1,9 +1,9 @@
 # The Golang Blocky Packages 
 
-[![GoDoc](https://godoc.org/github.com/blockysource/blocky?status.svg)](https://godoc.org/github.com/blockysource/blocky)
-[![Go Report Card](https://goreportcard.com/badge/github.com/blockysource/blocky)](https://goreportcard.com/report/github.com/blockysource/blocky)
-[![Build Status](https://travis-ci.org/blockysource/blocky.svg?branch=master)](https://travis-ci.org/blockysource/blocky)
-[![codecov](https://codecov.io/gh/blockysource/blocky/branch/master/graph/badge.svg)](https://codecov.io/gh/blockysource/blocky)
+[![GoDoc](https://godoc.org/github.com/blockysource/blockysql?status.svg)](https://godoc.org/github.com/blockysource/blockysql)
+[![Go Report Card](https://goreportcard.com/badge/github.com/blockysource/blockysql)](https://goreportcard.com/report/github.com/blockysource/blockysql)
+[![Build Status](https://travis-ci.org/blockysource/blockysql.svg?branch=master)](https://travis-ci.org/blockysource/blockysql)
+[![codecov](https://codecov.io/gh/blockysource/blockysql/branch/master/graph/badge.svg)](https://codecov.io/gh/blockysource/blockysql)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
